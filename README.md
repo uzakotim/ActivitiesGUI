@@ -1,0 +1,2 @@
+# ActivitiesGUI
+Household Activities App
